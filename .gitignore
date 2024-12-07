@@ -1,4 +1,4 @@
 .venv/
 .env/
-.mail_reminder_service.bat/
-.run_reminder_service.vbs/
+.mail_reminder_service.bat
+.run_reminder_service.vbs
